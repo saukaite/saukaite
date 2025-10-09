@@ -18,12 +18,13 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React
-- **Testing:** Jest
-- **Tooling:** Vite, ESLint, Prettier
-- **CI/CD:** GitHub Actions
-- **Other:** Figma, Jira, Agile
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks/Libraries:** React, React Native, Vue.js, Jotai  
+- **Testing:** Jest  
+- **Tooling:** Vite, ESLint, Prettier  
+- **CI/CD:** GitHub Actions  
+- **Version Control:** Git, GitHub  
+- **Other:** Figma, Jira, Agile  
 
 ---
 
