@@ -30,7 +30,7 @@
 
 ## 🔭 Work experience
 
-| Shopify  | Collabs | Oberlo |
+| [Shopify](https://www.shopify.com/lt)  | [Collabs](https://www.shopify.com/collabs/creators) | [Oberlo](https://www.oberlo.com/) |
 | ------------- | ------------- |------------- |
 | <img width="1280" height="402" alt="Shopify_logo_2018 svg" src="https://github.com/user-attachments/assets/bd97844a-5cd5-4fba-b563-aecf4c04d3bc" />  | ![maxresdefault](https://github.com/user-attachments/assets/bf2ee03e-1145-4ff8-851d-74ddcf7498c7)|<img width="1448" height="293" alt="oberlo-logo-freelogovectors net_" src="https://github.com/user-attachments/assets/5eadb552-42cb-4068-8075-e3a5528ed824" />|
 
