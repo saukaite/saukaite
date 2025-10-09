@@ -1,20 +1,18 @@
-# 👋 Hi there, I'm Sandra
+# 👋 Hi there, I'm Sandra 
 
-- 🎯 Senior Frontend Engineer with 5+ years of work experience
-- 💻 Passionate about building accessible, performant, and scalable mobile/web applications  
-- 🌍 Based in Vilnius, Lithuania | Open to remote opportunities
-
----
-
-## 🚀 About Me
-
-- 🔧 Specializing in **React**, **TypeScript** and modern frontend architecture
-- 🤝 Collaborated with cross-functional teams across design, backend, and product management
-- 🧪 Advocate for **clean code**, **testing**, and **maintainable components**
-- 🎨 Love working on UI/UX challenges and pixel-perfect implementations
-- 📦 Experience integrating with RESTful and GraphQL APIs
-
----
+```ts
+export const AboutMe = {
+  title: "🎯 Senior Frontend Engineer",
+  location: "🌍 Vilnius, Lithuania",
+  openToRemote: true,
+  summary: [
+    "💻 Specializing in React, TypeScript and modern frontend architecture",
+    "🧪 Advocate for clean code, testing, and maintainable components",
+    "📦 Experience integrating with RESTful and GraphQL APIs",
+    "🤝 Collaborated with cross-functional teams across design, backend, and product management",
+  ],
+};
+```
 
 ## 🛠️ Tech Stack
 
