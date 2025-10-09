@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sandra
 
 - 🎯 Senior Frontend Engineer with 5+ years of work experience
-- 💻 Built scalable web & mobile apps at Shopify and Oberlo
+- 💻 Passionate about building accessible, performant, and scalable mobile/web applications  
 - 🌍 Based in Vilnius, Lithuania | Open to remote opportunities
 
 ---
@@ -23,15 +23,16 @@
 - **Testing:** Jest
 - **Tooling:** Vite, ESLint, Prettier
 - **CI/CD:** GitHub Actions
-- **Other:** Figma, Jira, Agile/Scrum
+- **Other:** Figma, Jira, Agile
 
 ---
 
-## 📈 Some Highlights
+## 🔭 I've worked at
 
-- 🔄 Migrated legacy codebases to modern stacks with improved maintainability
-- 🧩 Created reusable components to streamline development across teams
-- 📊 Mentored/onboarded engineers and contributed to team growth & code reviews
+| Shopify  | Collabs | Oberlo |
+| ------------- | ------------- |------------- |
+| <img width="1280" height="402" alt="Shopify_logo_2018 svg" src="https://github.com/user-attachments/assets/bd97844a-5cd5-4fba-b563-aecf4c04d3bc" />  | ![maxresdefault](https://github.com/user-attachments/assets/bf2ee03e-1145-4ff8-851d-74ddcf7498c7)|<img width="1448" height="293" alt="oberlo-logo-freelogovectors net_" src="https://github.com/user-attachments/assets/5eadb552-42cb-4068-8075-e3a5528ed824" />|
+
 
 ---
 
