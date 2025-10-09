@@ -24,9 +24,9 @@ export const AboutMe = {
 
 ## 🔭 Work Experience
 
-- **Shopify
-- **Shopify Collabs
-- **Oberlo
+- **Shopify**
+- **Shopify Collabs**
+- **Oberlo**
 
 ## 📬 Get in Touch
 
