@@ -19,16 +19,16 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript  
-- **Frameworks/Libraries:** React, React Native, Vue.js, Jotai  
-- **Testing:** Jest  
-- **Tooling:** Vite, ESLint, Prettier  
-- **CI/CD:** GitHub Actions  
+- **Frameworks/Libraries:** React, React Native, Vue.js, Jotai (state management)  
+- **Testing:** Jest, React Testing Library  
+- **Tooling:** Vite, ESLint, Prettier, Storybook  
+- **CI/CD:** GitHub Actions, automated deployment pipelines  
 - **Version Control:** Git, GitHub  
-- **Other:** Figma, Jira, Agile  
+- **Design & Collaboration:** Figma, Jira, Agile
 
 ---
 
-## 🔭 I've worked at
+## 🔭 Work experience
 
 | Shopify  | Collabs | Oberlo |
 | ------------- | ------------- |------------- |
