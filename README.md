@@ -1,25 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sandra
 
-My name is Sandra, and I'm a Senior Frontend Engineer with over 7 years of experience in the e-commerce field!
+🎯 Senior Frontend Engineer with 5+ years of work experience
+💻 Built scalable web & mobile apps at Shopify and Oberlo
+🌍 Based in Vilnius, Lithuania | Open to remote opportunities
 
-- 🔭 I’m currently working on 
-- 🌱 I’ve worked from the beginning on the Collabs mobile app launched this year.
-- 👯 I’m looking to collaborate on world-class projects making a positive impact.
-- 🍵 Ask me about where to get the best matcha in Vilnius 
-- 📫 How to reach me: sa.saukaite@gmail.com
-- 🧗‍♀️ Fun fact: I've worked as a rock climbing instructor! 
+---
 
-<!--
-**saukaite/saukaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔧 Specializing in **React**, **TypeScript** and modern frontend architecture
+- 🤝 Collaborated with cross-functional teams across design, backend, and product management
+- 🧪 Advocate for **clean code**, **testing**, and **maintainable components**
+- 🎨 Love working on UI/UX challenges and pixel-perfect implementations
+- 📦 Experience integrating with RESTful and GraphQL APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript
+- **Frameworks/Libraries:** React
+- **Testing:** Jest
+- **Tooling:** Vite, ESLint, Prettier
+- **CI/CD:** GitHub Actions
+- **Other:** Figma, Jira, Agile/Scrum
+
+---
+
+## 📈 Some Highlights
+
+- 🔄 Migrated legacy codebases to modern stacks with improved maintainability
+- 🧩 Created reusable components to streamline development across teams
+- 📊 Mentored/onboarded engineers and contributed to team growth & code reviews
+
+---
+
+## 📬 Get in Touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/sandra-s)
+- 📧 Email: sa.saukate@gmail.com
+
+---
+
+_Thanks for stopping by! Feel free to connect or say Hi! 🚀_
