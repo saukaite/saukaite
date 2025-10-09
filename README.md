@@ -2,9 +2,11 @@
 
 ```ts
 export const AboutMe = {
-  title: "🎯 Senior Frontend Engineer",
-  location: "🌍 Vilnius, Lithuania",
+  title: "Senior Frontend Engineer 🎯",
+  experience: "5+ years",
+  location: "Vilnius, Lithuania 🌍",
   openToRemote: true,
+  summary: "Building accessible, performant web/mobile apps",
 };
 ```
 
