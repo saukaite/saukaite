@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Sandra
 
-🎯 Senior Frontend Engineer with 5+ years of work experience
-💻 Built scalable web & mobile apps at Shopify and Oberlo
-🌍 Based in Vilnius, Lithuania | Open to remote opportunities
+- 🎯 Senior Frontend Engineer with 5+ years of work experience
+- 💻 Built scalable web & mobile apps at Shopify and Oberlo
+- 🌍 Based in Vilnius, Lithuania | Open to remote opportunities
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/sandra-s)
+- 💼 [LinkedIn](https://lt.linkedin.com/in/sandra-s-09539b190)
 - 📧 Email: sa.saukate@gmail.com
 
 ---
