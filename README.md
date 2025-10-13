@@ -31,7 +31,7 @@ export const AboutMe = {
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://lt.linkedin.com/in/sandra-s-09539b190)
-- 📧 Email: sa.saukate@gmail.com
+- 📧 Email: sa.saukaite@gmail.com
 
 ---
 
